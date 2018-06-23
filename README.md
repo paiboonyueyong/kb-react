@@ -15,3 +15,5 @@ Change NPM Package registry from registry.npmjs.org to registry.npmjs.org:443
 Print current NPM Package registry
 > npm config get registry
 
+ref : https://www.bleepingcomputer.com/news/technology/npm-fails-worldwide-with-err-418-im-a-teapot-error/
+
